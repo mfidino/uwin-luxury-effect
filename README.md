@@ -127,7 +127,7 @@ This contains one file, `./JAGS/multi_scale_occupancy_simpler_RE.R`, which is th
 
 ---
 
-<div align="center"><img width="150" height="auto" src="./assets/red_fox.JPG" alt="A silhouette of a red fox." /></div>
+<div align="center"><img width="150" height="auto" src="./assets/red_fox.jpg" alt="A silhouette of a red fox." /></div>
 
 <div align="center"> <h3>Plots</h3> </div>
 
