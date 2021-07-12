@@ -173,15 +173,3 @@ This folder is basically empty (there is an `among_model` sub-folder which also 
 **./R/range_map_script/pull_range_info.R:** Script to pull the distance of each city to the range edge of a given species. Uses IUCN data (url link in script).
 
 **./R/summary_scripts/species_rich_across_sites.R:** Estimates species richness at each site from the model for 9,000 posterior draws. Also generates the correlation coefficients between species richness and income as well as species richness and urban intensity.
-
-
-
----
-
-<div align="center"><img width="150" height="auto" src="./assets/squirrel.JPG" alt="A silhouette of a squirrel." /></div>
-
-<div align="center"> <h3>results</h3> </div>
-
----
-
-This contains an RDS file of the JAGS model output (`./results/final_model_fit.RDS`) which is used to plot out all of the results / summarize the model parameters.
