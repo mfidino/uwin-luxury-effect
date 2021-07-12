@@ -10,8 +10,8 @@ St. Clair, C., Shier, C. J., Stankowich, T., , Stevenson, C. J., Zellmer, A. J.,
 Schell, C. J. (*in press*). Wealth and urbanization shape medium and large mammalian
 communites across north america. Global Change Biology.
 
-This `README` file includes information on the various scripts and datasets used for this analysis. Not every data source is saved in this repository (e.g., GIS data). The manuscript details where datasets came, and various scripts also include
-urls to different datasets.
+This `README` file includes information on the various scripts and datasets used for this analysis. Not every data source is saved in this repository (e.g., GIS data). The manuscript includes citation on where spatial datasets came from, and various scripts also include
+urls to different spatial datasets (e.g., pulling range map information).
 
 ---
 
