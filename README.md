@@ -1,4 +1,6 @@
 # uwin-luxury-effect
+[![DOI](https://zenodo.org/badge/385347111.svg)](https://zenodo.org/badge/latestdoi/385347111)
+
 
 A repository that contains the data and code for:
 
