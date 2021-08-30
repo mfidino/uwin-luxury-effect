@@ -9,7 +9,7 @@ Kay, C. A. M., Lehrer, E. W., Murray, M. H., Adalsteinsson, S. A., Ahlers, A. A.
 Anthonysamy, W. J. B., Gramza, A. R., Green, A. M., Jordan, M. J., Lewis, J.,
 Long, R. A., MacDougall, B., Pendergast, M. E., Remine, K., Simon, K. C., Cassady
 St. Clair, C., Shier, C. J., Stankowich, T., , Stevenson, C. J., Zellmer, A. J., and
-Schell, C. J. (*in press*). Wealth and urbanization shape medium and large mammalian
+Schell, C. J. (2021). Wealth and urbanization shape medium and large mammalian
 communites across north america. Global Change Biology.
 
 This `README` file includes information on the various scripts and datasets used for this analysis. Not every data source is saved in this repository (e.g., GIS data). The manuscript includes citation on where spatial datasets came from, and various scripts also include
